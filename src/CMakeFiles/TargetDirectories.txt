@@ -1,0 +1,3 @@
+/mnt/c/Users/Das/Desktop/BusquedaHeuristica/src/CMakeFiles/Reversi.dir
+/mnt/c/Users/Das/Desktop/BusquedaHeuristica/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Das/Desktop/BusquedaHeuristica/src/CMakeFiles/rebuild_cache.dir
