@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/gato.dir/src/main.cpp.o CMakeFiles/gato.dir/src/board.cpp.o -o gato
